@@ -1,0 +1,7 @@
+{
+  "name": "pokemonScriptCreator",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
